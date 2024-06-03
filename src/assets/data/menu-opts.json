@@ -1,0 +1,13 @@
+[
+
+    {
+      "icon": "refresh-circle-outline",
+      "name": "Loading",
+      "redirectTo": "/loading"
+    },
+    {
+        "icon": "grid-outline",
+        "name": "Grid",
+        "redirectTo": "/grid"
+    }
+]
